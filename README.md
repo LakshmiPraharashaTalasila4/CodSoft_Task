@@ -65,5 +65,5 @@ CodSoft provides virtual internship opportunities to students and tech enthusias
 If you have any feedback or want to chat about Python development, feel free to reach out!
 
 * **Name:** [Lakshmi Praharasha Talasila]
-* **LinkedIn:** [Your LinkedIn Profile Link]
-* **GitHub:** [Your GitHub Profile Link]
+* **LinkedIn:** [[Your LinkedIn Profile Link](https://www.linkedin.com/in/talasila-lakshmi-praharasha-bb9920412?utm_source=share_via&utm_content=profile&utm_medium=member_android)]
+* **GitHub:** [https://github.com/LakshmiPraharashaTalasila4]
